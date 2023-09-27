@@ -1,0 +1,77 @@
+html{
+	font-family: Consolas;
+}
+body {
+	color:snow;
+	background-color: #232323;
+}
+.day{
+	float: right;
+	width: 24%;
+	border-radius: 5px;
+	border: 0;
+	outline: None;
+	font-size: 35px;
+	font-family: Consolas;
+	margin-right:1%;
+}
+.test1{
+	/*float: left;*/
+	/*margin-right: 50px;*/
+	/*padding-left:0% */
+}
+.days{
+	float: right;
+	width: 50%;
+	border-radius: 5px;
+	border: 0;
+	outline: None;
+	font-size: 35px;
+	font-family: Consolas;
+	margin-right:10px;}
+.days1{
+	position: relative;
+	float: center;
+	width: 100%;
+	border-radius: 5px;
+	border: 0;
+	outline: None;
+	font-size: 35px;
+	font-family: Consolas;
+	margin-right:10px;}
+
+select{
+		float: right;
+	width: 50%;
+	border-radius: 5px;
+	border: 0;
+	outline: None;
+	font-size: 35px;
+	font-family: Consolas;
+}
+div{
+	font-size: 35px;
+	padding-left:5% 
+
+}
+button{
+	width: 30%;
+	font-size: 35px;
+	border-radius: 10px;
+	border:None;
+	outline: red;
+	transition: 1s;
+	font-family: Consolas;
+}
+button:hover{
+	width: 33%;
+	/*transition: 1s;*/
+
+}
+body {cursor: url(https://mnogoblog.ru/cur117.cur), progress !important;}
+a {cursor: url(https://mnogoblog.ru/cur117.cur), progress !important;}
+button {cursor: url(https://mnogoblog.ru/cur117.cur), progress !important;}
+input {cursor: url(https://mnogoblog.ru/cur117.cur), progress !important;}
+div {cursor: url(https://mnogoblog.ru/cur117.cur), progress !important;}
+html {cursor: url(https://mnogoblog.ru/cur117.cur), progress !important;}
+select {cursor: url(https://mnogoblog.ru/cur117.cur), progress !important;}
